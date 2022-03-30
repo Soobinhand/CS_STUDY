@@ -1,5 +1,4 @@
-## TCP
-### Transmission Control Protocol
+## TCP (Transmission Control Protocol)
 
 ### 정의
 - OSI 7계층 중 4번째인 전송계층에 속하는 프로토콜이다.
@@ -24,3 +23,8 @@
 
 ### 사용 이유
 - 연속성보다 신뢰성있는 전송이 중요할 때 사용하는 프로토콜로 파일 전송, 이메일 같은 경우에 사용함.
+
+### 자주 나오는 질문
+- TCP와 UDP의 차이점.
+- 3way handshake 절차.
+- TCP/IP.
